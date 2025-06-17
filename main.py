@@ -1,122 +1,125 @@
+
 import streamlit as st
 import pandas as pd
 import joblib
+import shap
+import matplotlib.pyplot as plt
 import numpy as np
+import openai
+import os
 
-# Page setup
+# Set Groq API key
+openai.api_key = "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"
+openai.api_base = "https://api.groq.com/openai/v1"
+
+# Load models
+model = joblib.load(r"C:\Users\Nisha kadian\Downloads\xgboost_model_final.pkl")  # Pipeline model
+
+
 st.set_page_config(page_title="Caregiver Churn Prediction", layout="centered")
+st.title("Caregiver Churn & Retention Strategy")
+st.markdown("### Please fill in the caregiver details:")
 
-# Title and subtitle
-st.title("📊 Caregiver Churn Prediction")
-st.markdown("Use the form below to predict the likelihood of a caregiver leaving.")
+# --- Input Form ---
+gender = st.selectbox("Gender", ["Female", "Male"])
+race = st.selectbox("Race", [
+    "Middle Eastern Canadian", "Hispanic or Latino Canadian", "Asian Canadian",
+    "Eastern European Canadian", "Hispanic Canadian", "African Canadian",
+    "British Canadian", "South Asian Canadian"
+])
+marital_status = st.selectbox("Marital Status", ["Unknown", "Married", "Single", "Divorce"])
+service_unit = st.selectbox("Service Unit", [
+    "Personal Care", "HMAP INCL", "Palliative", "Foot Care", "Caregiver Training",
+    "Post Operative Care", "Respite Personal Care", "RPNRN Shift"
+])
+pay_unit = st.selectbox("Pay Unit", ["Hourly", "Visit"])
+pay_rate = st.number_input("Pay Rate", min_value=0.0, step=0.1)
+payroll_units_without_ot = st.number_input("Payroll Units Without OT", min_value=0.0, step=0.1)
+payroll_ot_amount = st.number_input("Payroll OT Amount", min_value=0.0, step=0.1)
+total_payroll_amount = st.number_input("Total Payroll Amount", min_value=0.0, step=0.1)
+age = st.number_input("Age", min_value=0, step=1)
+caregiver_can_do_nights = st.selectbox("Can do Nights (1 = Yes, 0 = No)", [1, 0])
+caregiver_can_do_days = st.selectbox("Can do Days (1 = Yes, 0 = No)", [1, 0])
+caregiver_tenure_years = st.number_input("Caregiver Tenure (Years)", min_value=0.0, step=0.1)
 
-# Load trained model and feature columns
-try:
-    model = joblib.load("xgboost_model1.pkl")
+# --- Prepare input ---
+input_data = pd.DataFrame([{
+    "Service Unit": service_unit,
+    "Pay Unit": pay_unit,
+    "Pay Rate": pay_rate,
+    "Payroll UnitsWithoutOT": payroll_units_without_ot,
+    "Payroll OTAmount": payroll_ot_amount,
+    "Total Payroll Amount": total_payroll_amount,
+    "Gender": gender,
+    "Age": age,
+    "Marital Status": marital_status,
+    "Race": race,
+    "Caregiver Attributes_Can do Nights": caregiver_can_do_nights,
+    "Caregiver Attributes_Can do Days": caregiver_can_do_days,
+    "CaregiverTenureYears": caregiver_tenure_years
+}])
 
-    # Check if model has attribute feature_names_in_
-    if hasattr(model, "feature_names_in_"):
-        expected_cols = [col for col in model.feature_names_in_ if col != "Prediction"]
-    elif hasattr(model, "named_steps"):  # If it's a pipeline
-        expected_cols = [col for col in model.named_steps['model'].feature_names_in_ if col != "Prediction"]
+if st.button("Predict Churn & Strategy"):
+    # --- Churn Prediction ---
+    prediction = model.predict(input_data)[0]
+    probability = model.predict_proba(input_data)[0][1]
+
+    risk_label = "High Risk" if probability > 0.6 else "Moderate Risk" if probability > 0.3 else "Low Risk"
+
+    st.subheader("Prediction Result")
+    if prediction == 1:
+        st.error(f"⚠️ {risk_label}: The caregiver is likely to churn ({probability * 100:.2f}%)")
     else:
-        raise AttributeError("Cannot find feature names in the loaded model.")
+        st.success(f"✅ {risk_label}: The caregiver is likely to stay ({(1 - probability) * 100:.2f}%)")
 
-    st.success("✅ Model loaded successfully.")
-except Exception as e:
-    st.error(f"❌ Model loading failed: {e}")
-    st.stop()
+    # --- Value Score ---
+    value_score = (pay_rate * 0.2 + caregiver_tenure_years * 0.5 + total_payroll_amount * 0.3)
+    value_label = "High Value" if value_score > 80 else "Moderate Value" if value_score > 40 else "Low Value"
+    st.markdown(f"**💎 Employee Value Score:** {value_score:.2f} ({value_label})")
 
-# --- User input form ---
-def user_input_features():
-    st.header("📁 Employment Details")
-    col1, col2 = st.columns(2)
-    with col1:
-        service_unit = st.selectbox("Service Unit", [
-            "Personal Care", "HMAP INCL", "Palliative", "Live-In", "Respite Personal Care",
-            "Post Operative Care", "HMAP CH Visit", "Caregiver Training", "RPNRN Shift", "Other",
-            "Phone Consult", "Foot Care", "RPNRN Visit", "Delivery", "Supervisory Visit",
-            "Covid 19 Rapid Antigen Testing", "PSW Visit", "PSW  Shift", "Couple Care",
-            "Hospall HM Work", "On Call Duty", "Training"
-        ])
-        pay_unit = st.selectbox("Pay Unit", ["Hourly", "Visit", "15 Min"])
-    with col2:
-        pay_rate = st.number_input("Pay Rate", 0.0, 1000.0, 100.0)
-        payroll_units_without_ot = st.number_input("Payroll UnitsWithoutOT", 0.0, 100.0, 40.0)
-        payroll_ot_amount = st.number_input("Payroll OTAmount", 0.0, 100.0, 5.0)
-        total_payroll_amount = st.number_input("Total Payroll Amount", 0.0, 10000.0, 1200.0)
+    # --- SHAP Feature Importance ---
+    st.subheader("🔍 Feature Impact (Top Predictors)")
+    preprocessor = model.named_steps["preprocessor"]
+    classifier = model.named_steps["classifier"]
+    transformed_data = preprocessor.transform(input_data)
+    feature_names = preprocessor.get_feature_names_out()
+    explainer = shap.Explainer(classifier)
+    shap_values = explainer(transformed_data)
 
-    st.header("🧍 Personal Details")
-    col3, col4 = st.columns(2)
-    with col3:
-        gender = st.selectbox("Gender", ["Female", "Male"])
-        age = st.slider("Age", 18, 70, 30)
-        marital_status = st.selectbox("Marital Status", ["Married", "Unknown", "Divorce", "Single", "Separated"])
-    with col4:
-        race = st.selectbox("Race", [
-            "Middle Eastern Canadian", "Asian Canadian", "African Canadian", "Hispanic or Latino Canadian",
-            "British Canadian", "Eastern European Canadian", "Caribbean Canadian", "Italian Canadian",
-            "French Canadian", "Jewish Canadian"
-        ])
+    shap_df = pd.DataFrame({
+        "Feature": feature_names,
+        "SHAP Value": shap_values.values[0]
+    }).sort_values(by="SHAP Value", key=abs, ascending=False).head(10)
 
-    st.header("⏰ Shift Preferences")
-    col5, col6 = st.columns(2)
-    with col5:
-        can_do_nights = st.selectbox("Can do Night Shifts?", ["No", "Yes"])
-    with col6:
-        can_do_days = st.selectbox("Can do Day Shifts?", ["No", "Yes"])
+    fig, ax = plt.subplots(figsize=(8, 5))
+    shap_df.plot(kind="barh", x="Feature", y="SHAP Value", ax=ax, color="skyblue", legend=False)
+    ax.invert_yaxis()
+    ax.set_title("Top Contributing Features")
+    st.pyplot(fig)
 
-    # Create dictionary
-    data = {
-        "Service Unit": service_unit,
-        "Pay Unit": pay_unit,
-        "Pay Rate": pay_rate,
-        "Payroll UnitsWithoutOT": payroll_units_without_ot,
-        "Payroll OTAmount": payroll_ot_amount,
-        "Total Payroll Amount": total_payroll_amount,
-        "Gender": gender,
-        "Age": age,
-        "Marital Status": marital_status,
-        "Race": race,
-        "Caregiver Attributes_Can do Nights": 1 if can_do_nights == "Yes" else 0,
-        "Caregiver Attributes_Can do Days": 1 if can_do_days == "Yes" else 0
-    }
+    with st.expander("🔬 See SHAP Value Table"):
+        st.dataframe(shap_df)
 
-    df = pd.DataFrame([data])
+    # --- LLM-based Retention Strategy (Concise) ---
+    st.subheader("📌 Suggested Retention Strategy (LLM)")
 
-    # Add missing expected columns with default values
-    for col in expected_cols:
-        if col not in df.columns:
-            df[col] = 0
-
-    # Reorder columns to match model input
-    df = df[expected_cols]
-    return df
-
-# --- Main app logic ---
-input_df = user_input_features()
-
-# Temporary workaround (not ideal):
-if 'Prediction' in model.feature_names_in_:
-    input_df['Prediction'] = 0  # Dummy column just to satisfy model
-
-# Reorder columns
-input_df = input_df.reindex(columns=model.feature_names_in_, fill_value=0)
-
-
-# Prediction
-if st.button("🔍 Predict Churn"):
     try:
-        prediction = model.predict(input_df)[0]
-        probability = model.predict_proba(input_df)[0][1]
-        st.subheader("🔔 Prediction Result")
-        if prediction == 1:
-            st.error(f"🚨 High Risk: Caregiver likely to churn ({probability * 100:.2f}%)")
-        else:
-            st.success(f"✅ Low Risk: Caregiver likely to stay ({(1 - probability) * 100:.2f}%)")
-    except Exception as e:
-        st.error(f"❌ Prediction failed: {e}")
+        prompt = f"""
+        Based on the following caregiver attributes:
+        - Churn Probability: {probability:.2f}
+        - Value Score: {value_score:.2f}
+        - Age: {age}, Pay Rate: {pay_rate}, Tenure: {caregiver_tenure_years} years
 
-# Show user input for verification
-if st.checkbox("📋 Show Input Data"):
-    st.write(input_df)
+        Please provide a short and effective 1-paragraph retention strategy to reduce the chance of churn. Keep it practical and avoid long descriptions.
+        """
+
+        response = openai.ChatCompletion.create(
+            model="llama3-8b-8192",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.5,
+        )
+        concise_strategy = response.choices[0].message.content.strip()
+        st.markdown(f"**{concise_strategy}**")
+
+    except Exception as e:
+        st.warning(f"LLM could not generate strategy. Error: {e}")
