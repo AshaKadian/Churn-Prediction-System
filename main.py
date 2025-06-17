@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import joblib
@@ -6,41 +5,62 @@ import shap
 import matplotlib.pyplot as plt
 import numpy as np
 import openai
+from dotenv import load_dotenv
 import os
 
-# Set Groq API key
-openai.api_key = "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"
-openai.api_base = "https://api.groq.com/openai/v1"
+# Load environment variables from .env file
+load_dotenv()
+
+# Set Groq API credentials
+openai.api_key = os.getenv("GROQ_API_KEY")
+openai.api_base = os.getenv("GROQ_API_BASE")
 
 # Load models
-model = joblib.load(r"C:\Users\Nisha kadian\Downloads\xgboost_model_final.pkl")  # Pipeline model
-
+model = joblib.load(r"xgboost_model_final.pkl")  # Pipeline model
 
 st.set_page_config(page_title="Caregiver Churn Prediction", layout="centered")
-st.title("Caregiver Churn & Retention Strategy")
-st.markdown("### Please fill in the caregiver details:")
+    st.title("🎯 Caregiver Churn Prediction System")
+st.markdown("### 📝 Please Fill in the Caregiver Details:")
 
 # --- Input Form ---
-gender = st.selectbox("Gender", ["Female", "Male"])
-race = st.selectbox("Race", [
-    "Middle Eastern Canadian", "Hispanic or Latino Canadian", "Asian Canadian",
-    "Eastern European Canadian", "Hispanic Canadian", "African Canadian",
-    "British Canadian", "South Asian Canadian"
-])
-marital_status = st.selectbox("Marital Status", ["Unknown", "Married", "Single", "Divorce"])
-service_unit = st.selectbox("Service Unit", [
-    "Personal Care", "HMAP INCL", "Palliative", "Foot Care", "Caregiver Training",
-    "Post Operative Care", "Respite Personal Care", "RPNRN Shift"
-])
-pay_unit = st.selectbox("Pay Unit", ["Hourly", "Visit"])
-pay_rate = st.number_input("Pay Rate", min_value=0.0, step=0.1)
-payroll_units_without_ot = st.number_input("Payroll Units Without OT", min_value=0.0, step=0.1)
-payroll_ot_amount = st.number_input("Payroll OT Amount", min_value=0.0, step=0.1)
-total_payroll_amount = st.number_input("Total Payroll Amount", min_value=0.0, step=0.1)
-age = st.number_input("Age", min_value=0, step=1)
-caregiver_can_do_nights = st.selectbox("Can do Nights (1 = Yes, 0 = No)", [1, 0])
-caregiver_can_do_days = st.selectbox("Can do Days (1 = Yes, 0 = No)", [1, 0])
-caregiver_tenure_years = st.number_input("Caregiver Tenure (Years)", min_value=0.0, step=0.1)
+col1, col2 = st.columns(2)
+
+with col1:
+    gender = st.radio("🧑 Gender", ["Female", "Male"], index=0)
+    marital_status = st.selectbox("💍 Marital Status", ["Married", "Unknown", "Divorce", "Single", "Separated"])
+    pay_unit = st.selectbox("💵 Pay Unit", ["Hourly", "Visit", "15 Min"], index=0)
+    caregiver_can_do_nights = st.radio("🌙 Available for Night Shifts?", ["Yes", "No"], index=1)
+    caregiver_can_do_days = st.radio("🌞 Available for Day Shifts?", ["Yes", "No"], index=0)
+
+with col2:
+    age = st.number_input("🎂 Age", min_value=18, step=1, value=30)
+    caregiver_tenure_years = st.number_input("📆 Caregiver Tenure (Years)", min_value=0.0, step=0.1)
+    pay_rate = st.number_input("💸 Pay Rate ($)", min_value=0.0, step=0.1)
+    payroll_units_without_ot = st.number_input("⏱ Payroll Units Without OT", min_value=0.0, step=0.1)
+    payroll_ot_amount = st.number_input("🕐 Payroll OT Amount", min_value=0.0, step=0.1)
+    total_payroll_amount = st.number_input("💰 Total Payroll Amount", min_value=0.0, step=0.1)
+
+# Service Unit sorted by frequency
+service_unit_options = [
+    "Personal Care", "HMAP INCL", "Palliative", "Live-In", "Respite Personal Care",
+    "Post Operative Care", "HMAP CH Visit", "Caregiver Training", "RPNRN Shift", "Other",
+    "Phone Consult", "Foot Care", "RPNRN Visit", "Delivery", "Supervisory Visit",
+    "Covid 19 Rapid Antigen Testing", "PSW Visit", "PSW  Shift", "Couple Care",
+    "Hospall HM Work", "On Call Duty", "Training"
+]
+service_unit = st.selectbox("🧾 Service Unit", service_unit_options, index=0)
+
+# Race sorted by frequency
+race_options = [
+    "Middle Eastern Canadian", "Asian Canadian", "African Canadian", "Hispanic or Latino Canadian",
+    "British Canadian", "Eastern European Canadian", "Caribbean Canadian", "Italian Canadian",
+    "French Canadian", "Jewish Canadian"
+]
+race = st.selectbox("🌍 Race", race_options, index=0)
+
+# Convert Yes/No to 1/0 for model input
+caregiver_can_do_nights = 1 if caregiver_can_do_nights == "Yes" else 0
+caregiver_can_do_days = 1 if caregiver_can_do_days == "Yes" else 0
 
 # --- Prepare input ---
 input_data = pd.DataFrame([{
@@ -64,7 +84,7 @@ if st.button("Predict Churn & Strategy"):
     prediction = model.predict(input_data)[0]
     probability = model.predict_proba(input_data)[0][1]
 
-    risk_label = "High Risk" if probability > 0.6 else "Moderate Risk" if probability > 0.3 else "Low Risk"
+    risk_label = "High Risk" if probability > 0.6 else "Moderate Risk" if probability > 0.4 else "Low Risk"
 
     st.subheader("Prediction Result")
     if prediction == 1:
@@ -100,26 +120,48 @@ if st.button("Predict Churn & Strategy"):
     with st.expander("🔬 See SHAP Value Table"):
         st.dataframe(shap_df)
 
-    # --- LLM-based Retention Strategy (Concise) ---
-    st.subheader("📌 Suggested Retention Strategy (LLM)")
+    if risk_label in ["High Risk", "Moderate Risk"]:
+        # --- LLM-based Retention Strategy (Concise) ---
+        st.subheader("📌 Suggested Retention Strategy (LLM)")
+    
+        try:
+            prompt = f"""
+            You are an HR strategist specializing in caregiver retention in home healthcare.
 
-    try:
-        prompt = f"""
-        Based on the following caregiver attributes:
-        - Churn Probability: {probability:.2f}
-        - Value Score: {value_score:.2f}
-        - Age: {age}, Pay Rate: {pay_rate}, Tenure: {caregiver_tenure_years} years
-
-        Please provide a short and effective 1-paragraph retention strategy to reduce the chance of churn. Keep it practical and avoid long descriptions.
-        """
-
-        response = openai.ChatCompletion.create(
-            model="llama3-8b-8192",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.5,
-        )
-        concise_strategy = response.choices[0].message.content.strip()
-        st.markdown(f"**{concise_strategy}**")
-
-    except Exception as e:
-        st.warning(f"LLM could not generate strategy. Error: {e}")
+            A caregiver has a churn probability of {probability:.2f} and a value score of {value_score:.2f}. 
+            They are {age} years old, earning ${pay_rate:.2f}/${pay_unit}, and have {caregiver_tenure_years:.1f} years of experience with us. 
+            They {'can' if caregiver_can_do_nights else "cannot"} work night shifts and {'can' if caregiver_can_do_days else "cannot"} work day shifts.
+    
+            Create a **practical, time-phased retention strategy** that includes:
+            Each bullet should have a **bolded subheading**, followed by a clear, actionable explanation. Every subheading bullet point should be in next line and not in the same line as the action detail.
+            Format the strategy as follows:
+            ##### 1. Immediate Actions (within 1 week)
+            - **[Subheading]:** [Action detail]
+            - **[Subheading]:** [Action detail]
+            - **[Subheading]:** [Action detail]
+    
+            ##### 2. Short-Term Actions (within 1-2 months)
+            - **[Subheading]:** [Action detail]
+            - **[Subheading]:** [Action detail]
+            - **[Subheading]:** [Action detail]
+    
+            ##### 3. Long-Term Actions (over 3-6 months)
+            - **[Subheading]:** [Action detail]
+            - **[Subheading]:** [Action detail]
+            - **[Subheading]:** [Action detail]
+            
+            Format clearly using pointers and section titles. Be concise, action-driven, and motivational. Strategy must be respectful, cost-aware, and relevant to the profile above. Do not include any disclaimers or unnecessary narrative — just the structured retention strategy.
+    
+            Length: Max 70 words. Output only the formatted strategy.
+            """
+    
+            response = openai.ChatCompletion.create(
+                model="llama3-8b-8192",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.5,
+            )
+            concise_strategy = response.choices[0].message.content.strip()
+            st.markdown(f"{concise_strategy}", unsafe_allow_html=True)
+    
+        except Exception as e:
+            st.warning(f"LLM could not generate strategy. Error: {e}")
