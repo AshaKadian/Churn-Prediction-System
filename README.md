@@ -43,17 +43,20 @@ main/
 ```bash
 git clone https://github.com/yourusername/caregiver-churn-app.git
 cd caregiver-churn-app
+```
 
 ### 2. Create and activate a virtual environment
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 ### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4. Add your Groq API credentials to a `.env` file
 
@@ -62,11 +65,13 @@ Create a `.env` file in the root directory and add the following lines:
 ```ini
 GROQ_API_KEY=your_groq_api_key_here
 GROQ_API_BASE=https://api.groq.com/openai/v1
+```
 
 ### 5. Run the Streamlit app
 
 ```bash
 streamlit run main.py
+```
 
 ---
 
@@ -76,6 +81,7 @@ A custom **Employee Value Score** is calculated using the following formula:
 
 ```python
 value_score = (pay_rate * 0.2) + (tenure_years * 0.5) + (total_payroll_amount * 0.3)
+```
 
 ### Value Labels
 
@@ -120,6 +126,7 @@ Each action includes a **bolded heading** and a concise description. The output 
 from dotenv import load_dotenv
 load_dotenv()
 openai.api_key = os.getenv("GROQ_API_KEY")
+```
 
 ---
 
