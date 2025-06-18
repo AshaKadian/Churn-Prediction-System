@@ -1,0 +1,1001 @@
+Service Unit,Bill Unit,Pay Unit,Bill Rate,Pay Rate,Payroll OTUnits,Payroll UnitsWithoutOT,Payroll OTAmount,Payroll RegAmount,Total Payroll Amount,Gender,Age,Marital Status,Race,IsCaregiverTerminated,CaregiverTenureYears,Caregiver Attributes_Can do Nights,Caregiver Attributes_Can do Days
+Caregiver Training,Hourly,Hourly,35,0,0,3.93,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,22.5,0,4,0,90,90,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,34,22,0,6,0,132,132,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,41,18,0,12,0,216,216,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+RPNRN Shift,Hourly,Hourly,60,40,0,2,0,80,80,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,34,21,0,4,0,84,94,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Palliative,Hourly,Hourly,36,21.5,0,12,0,258,278,Female,36,Married,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,6.02,0,129.43,129.43,Female,62,Unknown,British Canadian,0,3,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,36,22,0,4,0,88,88,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,33,19,0,4,0,76,76,Male,56,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,8,0,172,175.84,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,34,19,0,3,0,57,57,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,34,22,0,10,0,220,220,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,31,19,0,12,0,228,228,Female,49,Unknown,Middle Eastern Canadian,1,3,0,1
+Palliative,Hourly,Hourly,35,19,0,12,0,342,342,Female,27,Single,Caribbean Canadian,0,4,1,1
+Live-In,Visit,Visit,497.25,321.75,0,0.36,0,115.83,115.83,Female,52,Married,African Canadian,0,2,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,41,21,0,12,0,252,252,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,41,22,0,12,0,264,264,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,32,21,0,12,0,252,252,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,41,19,0,13,0,247,247,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,41,22,0,8,0,176,176,Female,45,Married,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,45,Married,Asian Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,32,20,0,6,0,120,120,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,38,21,0,8.25,0,173.25,173.25,Female,48,Married,Middle Eastern Canadian,1,1,0,1
+Personal Care,Hourly,Hourly,36,22,0,8,0,176,176,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,37,21.5,0,9.5,0,204.25,204.25,Female,43,Married,Middle Eastern Canadian,0,2,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,4,0,80,80,Female,32,Single,French Canadian,1,3,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,36,21,0,12,0,252,272,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,4,0,86,86,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,35,22,0,5,0,165,165,Male,40,Married,Asian Canadian,1,11,1,0
+Palliative,Hourly,Hourly,38,21,0,9,0,189,189,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,35,21.5,0,5,0,107.5,107.5,Female,55,Married,Caribbean Canadian,0,4,1,0
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,34,Married,Caribbean Canadian,1,1,1,1
+Personal Care,Hourly,Hourly,41,22,0,3,0,66,66,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,19,0,6,0,114,114,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,41,21,0,12,0,252,252,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,58,Married,British Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,35,20.5,0,4,0,82,82,Male,30,Single,African Canadian,1,1,0,0
+Personal Care,Hourly,Hourly,37,21.5,0,4,0,86,86,Female,49,Unknown,Middle Eastern Canadian,1,3,1,1
+RPNRN Visit,Visit,Visit,140,65,0,1,0,65,65,Male,53,Married,Asian Canadian,0,11,0,1
+Palliative,Hourly,Hourly,40,21,0,7,0,147,147,Female,55,Married,Caribbean Canadian,0,4,1,0
+Personal Care,Hourly,Hourly,37,22.5,0,9.5,0,213.75,213.75,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Live-In,Visit,Visit,306,198,0,0.67,0,198.99,198.99,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,33,20,0,9,0,180,180,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,35,21,0,7,0,147,147,Female,41,Married,African Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,32,22,0,4,0,88,88,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,34,21,0,4,0,84,84,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,31,18,0,5,0,90,90,Male,41,Married,African Canadian,1,5,0,1
+Respite Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,42,Single,Middle Eastern Canadian,0,0,1,1
+Personal Care,Hourly,Hourly,36,22,0,8,0,176,176,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Palliative,Hourly,Hourly,35,19,0,6,0,114,114,Female,73,Unknown,Caribbean Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,37,22,0,4,0,88,100.48,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,4,0,86,86,Female,50,Married,Middle Eastern Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,160,160,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,34,22,0,10,0,220,220,Female,45,Married,Asian Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,40,21,0,4,0,126,126,Female,43,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,32,20,0,7,0,140,140,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,21,0,7,0,147,147,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,35,20,0,8,0,160,160,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,94.62,Female,45,Married,Asian Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,7,0,150.5,150.5,Female,59,Married,Middle Eastern Canadian,0,2,0,0
+Personal Care,Hourly,Hourly,33,22,0,8,0,176,176,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,35,21,0,12,0,252,252,Female,36,Married,African Canadian,1,2,1,0
+Personal Care,Hourly,Hourly,32,20,0,7,0,140,140,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,38,21,0,8,0,168,172.8,Female,48,Married,Middle Eastern Canadian,1,1,0,1
+Personal Care,Hourly,Hourly,36,20,0,6,0,120,120,Female,62,Unknown,British Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,33,20,0,12,0,240,240,Male,56,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,5,0,107.5,107.5,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,31,21,0,5,0,105,105,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,97.22,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,31,21,0,12,0,252,252,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+HMAP CH Visit,Visit,Hourly,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,22,0,9.5,0,209,209,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Palliative,Hourly,Hourly,36,22,0,12,0,264,284,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Palliative,Hourly,Hourly,35,20,0,10,0,200,200,Male,60,Married,African Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,35,20,0,8,0,160,160,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Live-In,Visit,Visit,448.5,292.5,0,0.41,0,179.89,179.89,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,17.5,21.5,0,4,0,86,86,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,32,21,0,7,0,147,147,Male,40,Married,Asian Canadian,1,11,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Palliative,Hourly,Hourly,36,21,0,12,0,252,272,Female,36,Married,African Canadian,0,0,1,1
+Personal Care,Hourly,Hourly,34,20,0,3,0,60,60,Female,47,Married,African Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,40,21,5,5,105,0,105,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,240,240,Male,56,Married,African Canadian,0,9,1,1
+Palliative,Hourly,Hourly,40,22,0,12,0,264,264,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,19,0,6,0,114,114,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,35,21,0,3,0,63,63,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,37,21,0,9.5,0,199.5,199.5,Male,59,Single,Hispanic or Latino Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,35,21.5,0,4,0,86,86,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,33,20,0,5,0,150,150,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,265,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,40,21,0,12,0,252,252,Female,34,Married,African Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,33,21,0,3,0,63,63,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,38,21,0,3,0,63,63,Female,53,Unknown,Middle Eastern Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,40,21,0,4,0,84,84,Female,43,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,32,19,0,6,0,114,114,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,38,21,0,7,0,147,147,Female,57,Divorce,British Canadian,0,2,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,41,17,0,12,0,204,204,Female,34,Married,African Canadian,1,5,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,38,20,0,12,0,240,240,Female,50,Married,Middle Eastern Canadian,0,1,0,0
+Personal Care,Hourly,Hourly,38,21.5,0,8,0,172,173.25,Female,44,Married,Asian Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,40,21,0,12,0,252,252,Male,60,Married,Middle Eastern Canadian,1,1,1,0
+Personal Care,Hourly,Hourly,33,22,0,8,0,176,176,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,35,19,0,8,0,152,152,Female,34,Single,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,40,22,0,12,0,264,264,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,33,20,0,12,0,240,240,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,36,21,0,4,0,84,84,Female,38,Married,African Canadian,0,1,0,1
+Palliative,Hourly,Hourly,38,21,0,11.5,0,241.5,241.5,Female,47,Unknown,Asian Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,4.5,0,90,90,Female,32,Single,French Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,35,21.5,0,4,0,86,86,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Palliative,Hourly,Hourly,35,19,0,3,0,57,57,Female,48,Unknown,Middle Eastern Canadian,1,1,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,38,22,0,12,0,264,264,Female,55,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,33,22,0,14,0,308,308,Female,45,Married,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32,0,0,12,0,0,0,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,34,21,0,3,0,63,73,Female,49,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,40,21.5,0,12,0,258,258,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Palliative,Hourly,Hourly,38,20,0,9,0,180,180,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,33,22,0,8,0,176,176,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,32,21,0,7,0,147,147,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Palliative,Hourly,Hourly,36,23,0,8,0,184,204,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+PSW  Shift,Hourly,Hourly,40,23,0,12,0,276,276,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,34,21.5,0,4,0,86,86,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,35,20,0,12,0,240,240,Female,55,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,38,22,3,1,66,22,88,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,32,19,0,9,0,171,171,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,41,21,0,12,0,252,252,Female,69,Married,Asian Canadian,1,12,0,1
+Live-In,Visit,Visit,448.5,292.5,0,1,0,292.5,292.5,Female,2,Married,African Canadian,1,5,0,1
+Post Operative Care,Hourly,Hourly,40,21,0,8,0,168,168,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,32,18,0,5,0,90,90,Female,52,Unknown,British Canadian,1,6,1,1
+Respite Personal Care,Hourly,Hourly,43,28,0,2,0,56,56,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,44,21.5,0,6,0,129,129,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,36,23,0,4,0,92,92,Male,53,Married,Asian Canadian,0,11,0,1
+Respite Personal Care,Hourly,Hourly,35,20,0,3.5,0,70,70,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,17.5,21.5,0,4,0,86,86,Female,49,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,18,0,5,0,90,90,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,37,22,0,4,0,88,99.52,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,35,23,0,12,0,276,276,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,18,0,12,0,216,216,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Palliative,Hourly,Hourly,35,19,0,11.5,0,218.5,218.5,Female,47,Married,African Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,17.5,0,0,0,0,0,0,Female,59,Married,Middle Eastern Canadian,0,2,0,0
+Personal Care,Hourly,Hourly,37,21.5,0,8,0,172,172,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Live-In,Visit,Visit,497.25,321.75,0,1,0,321.75,321.75,Female,52,Married,African Canadian,0,2,1,1
+Live-In,Visit,Visit,352.5,240,0,1,0,240,240,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,166.28,Female,52,Unknown,British Canadian,1,6,1,1
+Respite Personal Care,Hourly,Hourly,38,22,0,8,0,176,176,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Palliative,Hourly,Hourly,36,21,0,12,0,252,272,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,32,20,0,6,0,120,120,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,31,18,0,7,0,126,126,Female,55,Married,Caribbean Canadian,0,4,1,0
+Respite Personal Care,Hourly,Hourly,37,0,0,10,0,0,0,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,36,22,0,4.5,0,148.5,148.5,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Palliative,Hourly,Hourly,35,20,0,2,0,40,40,Male,60,Married,African Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,36,21,0,9.5,0,199.5,199.5,Female,46,Married,British Canadian,1,3,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,32,22,0,10,0,220,220,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,4.5,0,90,114.73,Female,32,Single,French Canadian,1,3,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Live-In,Visit,Visit,320,200,0,1,0,200,200,Female,0,Married,African Canadian,1,-47,1,0
+Personal Care,Hourly,Hourly,38,0,0,4,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,36,24,0,9,0,216,228.48,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,3,0,64.5,64.5,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,21,0,5,0,105,105,Male,40,Married,Asian Canadian,1,11,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,59,Married,Asian Canadian,0,7,0,1
+Live-In,Visit,Visit,320,200,0,1,0,200,200,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,3.5,0,75.25,75.25,Female,62,Unknown,British Canadian,0,3,0,1
+HMAP INCL,Hourly,Hourly,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,32,22,0,12,0,264,264,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,31,20,0,6,0,120,120,Female,43,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,55,Married,Middle Eastern Canadian,1,3,0,1
+Covid 19 Rapid Antigen Testing,Hourly,Hourly,60,40,0,2,0,80,80,Male,56,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,31,17,0,5,0,85,85,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,35,21,0,3,0,63,63,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,41,22,0,12,0,264,264,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,35,20,0,8,0,160,160,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,45,Married,Asian Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,32,17,0,4,0,68,79.29,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,41,22,0,1.5,0,33,33,Female,45,Married,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,31,22,0,7,0,154,154,Female,43,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,33,20,0,3,0,60,60,Female,42,Unknown,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,72,Female,52,Unknown,British Canadian,1,6,1,1
+Caregiver Training,Hourly,Hourly,0,21,0,1,0,21,21,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,18,0,8,0,144,144,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,35,24,0,4,0,96,96,Female,66,Married,Caribbean Canadian,0,3,1,1
+HMAP INCL,Hourly,Hourly,0,0,0,1,0,0,0,Female,76,Married,British Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,38,21,0,8.25,0,173.25,173.25,Female,48,Married,Middle Eastern Canadian,1,1,0,1
+Personal Care,Hourly,Hourly,35,23,0,4,0,92,92,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,32,22,0,10,0,220,220,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32,17,0,4,0,68,118.4,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Respite Personal Care,Hourly,Hourly,38,22,0,12,0,264,264,Female,55,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,31,19,0,5,0,95,95,Female,42,Unknown,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,31,18,0,12,0,216,216,Female,54,Married,Caribbean Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,21,0,12.5,0,262.5,262.5,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,160,185,Male,52,Married,African Canadian,1,8,1,0
+Live-In,Visit,Visit,352,224,0,1,0,224,224,Female,2,Married,African Canadian,1,5,0,1
+Respite Personal Care,Hourly,Hourly,37,23,0,4,0,92,92,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,4,0,86,86,Female,50,Married,Middle Eastern Canadian,0,2,0,1
+Post Operative Care,Hourly,Hourly,38,21,0,4,0,84,84,Male,28,Single,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,41,Married,Middle Eastern Canadian,1,3,1,1
+Palliative,Hourly,Hourly,34.5,21,0,10,0,210,210,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,35,21.5,0,12,0,258,258,Male,56,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,33,19,0,12,0,228,228,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,34,0,0,3.95,0,0,25,Female,40,Married,Italian Canadian,1,4,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,41,Married,African Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Male,56,Married,African Canadian,0,9,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,31,17,0,5,0,85,85,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32,18,0,10,0,180,180,Female,43,Single,Middle Eastern Canadian,1,4,0,1
+Post Operative Care,Hourly,Hourly,36,20,0,13.5,0,270,270,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,38,21,0,12,5.25,252,257.25,Female,41,Married,African Canadian,0,1,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,31,20,0,6,0,120,120,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,40,21,0,12,0,252,252,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,36,20.5,0,7,0,143.5,143.5,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,40,22.5,0,4,0,90,90,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,21,0,4,0,84,84,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,35,20,0,8,0,160,160,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,32,18,0,6,0,108,108,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,41,18,0,12,0,216,216,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,22,0,7,0,154,154,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,32,21,0,12,0,252,252,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,34,21,0,4,0,84,84,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,36,21,0,9.5,0,199.5,199.5,Female,46,Married,British Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,36,22,0,8,0,264,264,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,36,21.5,0,4,0,86,86,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Supervisory Visit,Hourly,Hourly,60,35,0,0.5,0,17.5,17.5,Female,56,Married,Middle Eastern Canadian,0,10,0,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,265,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,40,22.5,7,5,157.5,112.5,270,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,35,21.5,0,4,0,86,86,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Palliative,Hourly,Hourly,34.5,21,0,2,0,42,42,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,40,21,0,4,0,84,84,Female,35,Married,Middle Eastern Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,35,23,0,12,0,276,276,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,32,22,0,10,0,220,220,Female,43,Married,Middle Eastern Canadian,1,5,0,1
+Respite Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,42,Single,Middle Eastern Canadian,0,0,1,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,35,0,0,5,0,0,10.92,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,38,21,0,7,0,147,147,Female,57,Divorce,British Canadian,0,2,1,0
+Personal Care,Hourly,Hourly,32,19,0,12,0,228,228,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,35,21,0,4,0,84,84,Female,49,Unknown,Middle Eastern Canadian,1,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Other,Visit,Visit,130,40,0,1,0,40,40,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,38,21,0,4.05,0,85.05,85.05,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,40,21,0,4,0,84,84,Female,43,Married,Middle Eastern Canadian,0,1,0,1
+Palliative,Hourly,Hourly,34.5,22,0,8,0,176,176,Female,54,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Male,28,Single,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,31,17,0,5,0,85,85,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,36,0,0,9.5,0,0,50,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,35,21,0,4,0,84,84,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Female,43,Married,Middle Eastern Canadian,1,5,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,40,23,0,8,0,184,187.36,Female,50,Married,Middle Eastern Canadian,0,1,0,0
+Palliative,Hourly,Hourly,44,21.5,0,4,0,86,86,Female,48,Married,Asian Canadian,0,1,0,0
+Personal Care,Hourly,Hourly,34,20,0,3,0,60,70,Female,44,Unknown,Asian Canadian,1,2,1,1
+Personal Care,Hourly,Hourly,28,19,0,5,0,95,95,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,33,18,0,12,0,216,216,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,33,21,0,3,0,63,63,Female,59,Married,Caribbean Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,37,21.5,0,4,0,86,102,Female,59,Married,Middle Eastern Canadian,0,2,0,0
+Personal Care,Hourly,Hourly,37,21.5,0,9.5,0,204.25,204.25,Female,43,Married,Middle Eastern Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,36,20.5,0,5,0,102.5,102.5,Female,50,Married,Middle Eastern Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,8,0,172,172,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,36,22,0,4,0,88,88,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,33,21,0,11,0,231,231,Male,40,Married,Asian Canadian,1,11,1,0
+PSW Visit,Visit,Visit,50,30,0,1,0,30,40,Female,54,Unknown,African Canadian,1,2,1,0
+Personal Care,Hourly,Hourly,32,21,0,10,0,210,210,Female,59,Married,Asian Canadian,0,7,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,39,22,0,12,0,264,264,Female,57,Divorce,British Canadian,0,2,1,0
+Palliative,Hourly,Hourly,38,21,0,4,0,84,84,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,33,19,0,3,0,57,57,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,33,21,0,3,0,63,113,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,33,21,0,7,0,147,147,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,17.5,21.5,0,4,0,86,86,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,35,21,0,4,0,84,84,Female,59,Married,Middle Eastern Canadian,1,1,0,1
+Post Operative Care,Hourly,Hourly,35,21,0,5,0,105,105,Female,69,Married,Asian Canadian,1,12,0,1
+Live-In,Visit,Visit,352,224,0,1,0,224,224,Female,2,Married,African Canadian,1,5,0,1
+Other,Hourly,Hourly,0,30,0,12,0,360,360,Female,48,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,322.5,322.5,Female,45,Married,Asian Canadian,0,2,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+HMAP INCL,Visit,Visit,0,22,0,1,0,22,22,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,40,22,0,5,0,165,165,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,33,20,0,7,0,140,140,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Foot Care,Visit,Visit,60,40,0,1,0,40,40,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Palliative,Hourly,Hourly,40,21,0,12,0,252,252,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,34,20,0,3,0,60,70,Female,44,Unknown,Asian Canadian,1,2,1,1
+Personal Care,Hourly,Hourly,33,20,0,4,0,80,80,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Couple Care,Hourly,Hourly,0,1.5,0,8,0,12,12,Female,48,Married,Middle Eastern Canadian,1,1,0,1
+Delivery,Visit,15 Min,0,0,0,2,0,0,23.97,Female,76,Married,British Canadian,1,5,0,1
+Respite Personal Care,Hourly,Hourly,38,21,0,12,5.25,252,257.25,Female,42,Single,Middle Eastern Canadian,0,0,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,39,21,0,4,0,84,84,Female,57,Married,Middle Eastern Canadian,0,0,1,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,59,Married,Asian Canadian,0,7,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Respite Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,32,Separated,African Canadian,0,1,0,1
+Live-In,Visit,Visit,352,224,-1,1,0,224,224,Female,2,Married,African Canadian,1,5,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Supervisory Visit,Hourly,Hourly,60,35,0,3,0,105,173.81,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,87.98,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,33,22,0,8,0,264,264,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,59,Married,Asian Canadian,0,7,0,1
+Live-In,Hourly,Hourly,0,21,0,7,0,147,147,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,17.5,21,0,4,0,84,84,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,45,Married,Asian Canadian,1,11,0,1
+Palliative,Hourly,Hourly,36,22,0,12,0,264,264,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,17.5,21,0,12,0,252,252,Female,57,Divorce,British Canadian,0,2,1,0
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,35,21,0,4,0,84,84,Female,44,Married,Asian Canadian,0,0,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,33,20,0,3,0,60,60,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,53,Unknown,Middle Eastern Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,36,22,0,12,0,264,264,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Foot Care,Visit,Visit,60,45,0,1,0,45,45,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Live-In,Visit,Visit,320,200,0,1,0,200,200,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,41,22,0,13.5,0,297,297,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,22.5,0,4,0,90,116.07,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,28,18,0,5,0,90,90,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,36,21,0,4,0,84,84,Female,46,Single,Caribbean Canadian,1,2,0,0
+Personal Care,Hourly,Hourly,36,21,0,4,0,84,84,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+RPNRN Visit,Visit,Visit,140,65,0,1,0,65,65,Male,56,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,69,Married,Asian Canadian,1,12,0,1
+Palliative,Hourly,Hourly,38,0,0,12,0,0,0,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,17.5,21.5,0,4,0,86,89.84,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,37,21.5,0,8,0,172,172,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,31,21,0,5,0,105,105,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,88,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,33,20,0,8,0,160,160,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Foot Care,Visit,Visit,60,40,0,1,0,40,83.68,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,36,Married,African Canadian,1,2,1,0
+Palliative,Hourly,Hourly,44,21,0,4,0,84,84,Female,44,Married,Eastern European Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,41,19,0,13.5,0,256.5,256.5,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,38,22,0,4,0,88,88,Female,55,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,31,19,0,12,0,228,228,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Post Operative Care,Hourly,Hourly,40,21,0,12,0,252,252,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Visit,38,21,0,1,0,0,0,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,36,20.5,0,12,0,246,246,Female,61,Married,Middle Eastern Canadian,1,2,1,0
+Personal Care,Hourly,Hourly,33,20,0,8,0,160,160,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,38,22,0,4,0,88,88,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,53,Unknown,Middle Eastern Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,33,21.5,0,12,0,258,258,Male,40,Married,Asian Canadian,1,11,1,0
+Post Operative Care,Hourly,Hourly,37,21,0,12,0,252,252,Female,47,Unknown,Asian Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,40,21,0,3.75,0,78.75,78.75,Female,43,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,32,22,0,8,0,176,176,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,20,0,4,0,80,80,Female,47,Married,African Canadian,1,4,1,1
+Palliative,Hourly,Hourly,38,20,0,12,0,360,360,Female,47,Married,African Canadian,1,4,1,1
+Other,Hourly,Hourly,35,0,0,0.25,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Female,52,Unknown,British Canadian,1,6,1,1
+Respite Personal Care,Hourly,Hourly,35,20,0,3.5,0,70,70,Female,27,Unknown,African Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,32,19,0,8,0,152,152,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,62,Unknown,British Canadian,0,3,0,1
+Phone Consult,Hourly,Hourly,35,0,0,0.25,0,0,0,Female,56,Married,Middle Eastern Canadian,0,10,0,1
+Palliative,Hourly,Hourly,44,21,0,4,0,84,84,Female,44,Married,Eastern European Canadian,0,1,0,1
+Palliative,Hourly,Hourly,35,20,0,8,0,160,160,Male,60,Married,African Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,41,21,0,12,0,252,252,Female,45,Married,Asian Canadian,1,11,0,1
+Respite Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,54,Married,Middle Eastern Canadian,1,1,0,0
+RPNRN Shift,Hourly,Hourly,48,30,0,12,0,360,360,Female,49,Separated,Middle Eastern Canadian,1,4,1,1
+Post Operative Care,Hourly,Hourly,38,21.5,0,12,0,258,258,Female,73,Unknown,Caribbean Canadian,1,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,41,22,0,12,0,264,264,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Palliative,Hourly,Hourly,36,21,0,8,0,252,252,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,34,20,0,3,0,60,70,Female,44,Unknown,Asian Canadian,1,2,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,4,0,86,86,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,36,22,0.5,12,11,264,275,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,41,21,0,9,0,189,189,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,40,21,0,12,42,252,294,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Palliative,Hourly,Hourly,34.5,19,0,8,0,152,152,Female,47,Married,African Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,31,19,0,7,0,133,133,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,36,0,0,9.48,0,0,0,Female,46,Married,British Canadian,1,3,0,1
+Respite Personal Care,Hourly,Hourly,40,21,0,1,0,21,21,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,40,21,0,4,0,84,84,Female,59,Married,Middle Eastern Canadian,1,1,0,1
+Personal Care,Hourly,Hourly,32,21,0,12,0,252,252,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,33,22,0,8,0,176,176,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Other,Visit,Visit,130,50,0,1,0,50,50,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Respite Personal Care,Hourly,Hourly,38,21.5,0,5,0,107.5,107.5,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,90.5,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,11,0,236.5,236.5,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Male,52,Married,African Canadian,1,8,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,33,21,0,3,0,63,63,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,35,21.5,0,4,0,86,86,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,18,0,12,0,216,216,Female,54,Married,Caribbean Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,35,21.5,0,12,0,258,258,Female,55,Married,Caribbean Canadian,0,4,1,0
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,31,21,0,12,0,252,252,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32.5,18,0,12,0,216,216,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,51,Married,Middle Eastern Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,37,21,0,4,0,84,84,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Palliative,Hourly,Hourly,35,20,0,10,0,200,200,Male,60,Married,African Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,36,21,0,12,26.25,252,278.25,Female,41,Married,African Canadian,0,1,1,0
+Personal Care,Hourly,Hourly,37,22.5,0,4,0,90,90,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Palliative,Hourly,Hourly,35,20,0,8,0,160,160,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,32,19,0,12,0,228,228,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,32.5,0,0,9,0,0,0,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,33,18,0,12,0,216,216,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,5,0,107.5,107.5,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Foot Care,Visit,Visit,60,40,0,1,0,40,61,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Male,56,Married,African Canadian,0,9,1,1
+Foot Care,Visit,Visit,60,45,0,1,0,45,45,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,36,22.5,0,5,0,112.5,124.02,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,35,19,0,4,0,76,76,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,4,0,86,86,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,37,22.5,0,9.5,0,213.75,213.75,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,24,0,12,0,288,288,Female,66,Married,Caribbean Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,35,20.5,0,4,0,82,82,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,35,17,0,11,0,187,187,Female,34,Married,African Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,36,0,0,3.98,0,0,0,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,40,22,0,5,0,110,110,Female,57,Divorce,British Canadian,0,2,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Respite Personal Care,Hourly,Hourly,38,20.5,0,4,0,82,82,Female,48,Unknown,Middle Eastern Canadian,1,1,0,1
+Phone Consult,Hourly,Hourly,35,21,0,0.25,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,33,22,0,14.5,0,319,319,Female,47,Married,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,38,22,0,12,0,264,264,Female,55,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,35,21,0,12,0,252,252,Female,53,Unknown,Middle Eastern Canadian,1,4,1,1
+Live-In,Visit,Visit,207,135,0,1,0,135,135,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,35,21,0,3,0,63,63,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+PSW Visit,Visit,Visit,50,30,0,1,0,30,40,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,35,21,0,5,0,105,105,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,33,19,0,3,0,57,57,Female,32,Unknown,British Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,36,22,0,12,0,264,264,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Post Operative Care,Hourly,Hourly,36,19,0,4,0,76,76,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,163.39,Female,40,Married,Italian Canadian,1,4,0,1
+HMAP CH Visit,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+HMAP CH Visit,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Live-In,Visit,Visit,497.25,321.75,0,1,0,321.75,321.75,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,57,Divorce,British Canadian,0,2,1,0
+Personal Care,Hourly,Hourly,33,24,0,4,0,96,96,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+RPNRN Shift,Hourly,Hourly,48,30,0,12,0,360,402,Female,49,Separated,Middle Eastern Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,4,0,86,86,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,22,0,5,0,110,110,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+HMAP CH Visit,Visit,Visit,125,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,34,21.5,0,4,0,86,86,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,160,160,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,40,21.5,0,12,0,258,258,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Palliative,Hourly,Hourly,35,21,0,2,0,42,42,Female,59,Married,Caribbean Canadian,1,4,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,35.57,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,4.5,0,90,90,Female,32,Single,French Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,35,20,0,8,0,160,160,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,32,20,0,4,0,80,80,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,32,20,0,6,0,120,120,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,35,20,0,8,0,160,162.1,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,32,20,0,6,0,120,120,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,34,19,0,4,0,76,78.52,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,33,21.5,0,12,0,258,258,Male,40,Married,Asian Canadian,1,11,1,0
+Respite Personal Care,Hourly,Hourly,33,19,0,3,0,57,57,Female,46,Married,Asian Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,37,21,0,3.5,0,73.5,73.5,Female,45,Married,Asian Canadian,1,1,0,1
+Personal Care,Hourly,Hourly,38,22,0,8,0,176,178.4,Female,56,Married,Middle Eastern Canadian,0,0,0,0
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,41,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,160,185,Male,52,Married,African Canadian,1,8,1,0
+Post Operative Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Palliative,Hourly,Hourly,35,21,0,10,0,210,210,Male,52,Married,African Canadian,1,8,1,0
+Palliative,Hourly,Hourly,42,21,0,5,0,105,105,Female,32,Separated,African Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,32,19,0,6,0,114,114,Female,38,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,31,21,0,8,0,168,168,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,36,21,0,12.03,0,252.63,252.63,Female,36,Married,Middle Eastern Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,31,17,0,5,0,85,85,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,31,22,0,12,0,264,264,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,35,21.5,0,8,0,172,176.08,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,34,20,0,12,0,240,240,Male,56,Married,African Canadian,0,9,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,4,0,86,86,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,40,21.5,0,4,0,86,86,Male,28,Single,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,36,21,0,4,0,84,84,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Palliative,Hourly,Hourly,44,22,0,3,0,66,66,Male,56,Married,African Canadian,0,9,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Live-In,Hourly,Hourly,35,21,0,16,0,336,336,Female,36,Married,African Canadian,1,2,1,0
+Personal Care,Hourly,Hourly,32,20,0,4.5,0,90,90,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,19,0,12,0,228,228,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,34,20,0,4,0,80,87.98,Female,36,Married,Middle Eastern Canadian,1,3,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Male,40,Married,Asian Canadian,1,11,1,0
+HMAP CH Visit,Hourly,Visit,70,0,0,1,0,0,0,Female,56,Married,Middle Eastern Canadian,0,10,0,1
+Personal Care,Hourly,Hourly,36,20,0,6,0,120,120,Female,62,Unknown,British Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,35,18,0,3,0,54,54,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,40,21.5,0,6,0,129,129,Female,48,Married,Asian Canadian,0,1,0,0
+Personal Care,Hourly,Hourly,35,22,0,12,0,264,264,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,6,0,129,129,Female,62,Unknown,British Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,36,22,0,12,0,264,264,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Live-In,Visit,Visit,229.5,148.5,0,1,0,148.5,148.5,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,34,20,0,3,0,60,70,Female,46,Unknown,African Canadian,1,3,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,22.5,0,4,0,90,90,Female,52,Unknown,British Canadian,1,6,1,1
+Palliative,Hourly,Hourly,44,21.5,0,4,0,86,86,Female,48,Married,Asian Canadian,0,1,0,0
+Personal Care,Hourly,Hourly,36,21.5,0,10.67,0,229.41,246.21,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,69,Married,Asian Canadian,1,12,0,1
+HMAP CH Visit,Hourly,Visit,40,0,0,1,0,0,0,Female,56,Married,Middle Eastern Canadian,0,10,0,1
+Personal Care,Hourly,Hourly,32,17,0,4,0,68,71.49,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,31,19,0,8,0,152,152,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Live-In,Visit,Visit,448.5,180,0,1,0,180,180,Female,2,Married,African Canadian,1,5,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,22,0,8,0,176,176,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,69,Married,Asian Canadian,1,12,0,1
+RPNRN Shift,Hourly,Hourly,48,30,0,12,0,360,360,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,45,Married,Asian Canadian,1,11,0,1
+HMAP CH Visit,Hourly,Visit,75,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Live-In,Visit,Visit,448.5,292.5,0,1,0,292.5,292.5,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,35,22,0,5,0,110,110,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,34,18,0,4,0,72,72,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,25,18,0,7,0,126,126,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Live-In,Visit,Visit,306,198,0,1,0,198,248,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,88,Female,52,Unknown,British Canadian,1,6,1,1
+Caregiver Training,Hourly,Hourly,35,20,0,3.75,0,75,75,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,8,0,172,172,Female,48,Married,Middle Eastern Canadian,1,1,0,1
+Personal Care,Hourly,Hourly,32,21,0,6,0,126,126,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,32,20,0,6,0,120,120,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,33,21.5,0,12,0,258,258,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,69,Married,Asian Canadian,1,12,0,1
+Palliative,Hourly,Hourly,35,21,0,3,0,63,63,Female,59,Married,Caribbean Canadian,1,4,0,1
+Respite Personal Care,Hourly,Hourly,37,20,0,10,0,200,200,Female,54,Unknown,Asian Canadian,1,2,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,160,160,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,34,19,0,3,0,57,67,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,37,23,0,4,0,92,202.86,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,8,0,172,172,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+RPNRN Visit,Visit,Visit,140,65,0,1,0,65,65,Female,66,Married,Caribbean Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,31,21,0,12,0,252,252,Male,56,Married,African Canadian,0,9,1,1
+Palliative,Hourly,Hourly,35,18,0,3,0,54,54,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32,22,0,4,0,88,88,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,72,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,33,22,0,8,0,176,176,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,4,0,86,86,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,38,22,0,12,0,264,264,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Palliative,Hourly,Hourly,36,21,0,12,0,252,272,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,32,20,0,4,0,80,80,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,33,21,0,10.5,0,220.5,220.5,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,33,21,0,10,0,210,210,Female,59,Married,Asian Canadian,0,7,0,1
+Palliative,Hourly,Hourly,36,21,10,2,210,42,272,Female,32,Separated,African Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,4,0,86,86,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,31,18,0,12,0,216,216,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,31,21,0,12,0,252,252,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,103.47,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,51,Married,Middle Eastern Canadian,1,2,0,1
+Live-In,Visit,Visit,340,250,0,1,0,250,250,Female,43,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,35,19,0,4,0,76,76,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,34,20,0,4,0,80,80,Female,36,Married,Middle Eastern Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,33,19,0,5,0,95,95,Male,41,Married,African Canadian,1,5,0,1
+RPNRN Visit,Visit,Visit,140,65,0,1,0,65,65,Female,66,Married,Caribbean Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,8,0,172,172,Female,59,Married,Middle Eastern Canadian,0,2,0,0
+Personal Care,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,34,22,0,2,0,44,44,Male,56,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,59,Married,Asian Canadian,0,7,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,0,21,0,4,0,84,84,Female,59,Married,Middle Eastern Canadian,1,1,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,19,0,6,0,114,114,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,36,21,0,4,0,84,84,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,45,Married,Asian Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,40,21,0,5,147,105,252,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Respite Personal Care,Hourly,Hourly,34,21,0,8,0,168,168,Female,53,Unknown,Middle Eastern Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,34,18,0,4,0,72,97,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32,20,0,11,0,220,220,Female,43,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,31,21,0,8,0,252,252,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,33,20,0,12,0,240,240,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,32,19,0,10,0,190,190,Female,59,Married,Asian Canadian,0,7,0,1
+Other,Visit,Visit,130,40,0,1,0,40,40,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,31,21,0,4,0,84,84,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,35,22,0,8,0,176,176,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,35,19,0,4,0,76,76,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,160,160,Male,56,Married,African Canadian,0,9,1,1
+HMAP CH Visit,Visit,Visit,125,0,0,1,0,0,0,Male,56,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,88,Female,52,Unknown,British Canadian,1,6,1,1
+Live-In,Visit,Visit,448.5,292.5,0,1,0,292.5,292.5,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,32,20,0,6.5,0,130,130,Male,53,Married,Asian Canadian,0,11,0,1
+Post Operative Care,Hourly,Hourly,37,21,0,11.5,0,241.5,241.5,Female,44,Married,African Canadian,1,2,1,0
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,41,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,41,21,0,12,0,252,252,Female,53,Unknown,Middle Eastern Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,32,21,0,6,0,126,126,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,35,0,0,4,0,0,0,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,88,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Delivery,Visit,Visit,35,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,22,0,12,0,264,264,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,36,20.5,0,5,0,102.5,102.5,Female,61,Married,Middle Eastern Canadian,1,2,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,35,0,0,4,0,0,0,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,31,20,0,5,0,100,100,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Phone Consult,Hourly,Hourly,35,0,0,0.25,0,0,0,Female,56,Married,Middle Eastern Canadian,0,10,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,6,0,129,129,Female,62,Unknown,British Canadian,0,3,0,1
+Respite Personal Care,Hourly,Hourly,35,21,0,3.5,0,73.5,73.5,Female,44,Married,African Canadian,1,2,1,0
+Personal Care,Hourly,Hourly,32,20,0,12.25,0,245,245,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,160,160,Female,59,Married,Asian Canadian,0,7,0,1
+Palliative,Hourly,Hourly,38,23,0,12,0,276,276,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,7,0,140,140,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,17.5,21.5,0,4,0,86,86,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,59,Married,Asian Canadian,0,7,0,1
+Palliative,Hourly,Hourly,38,21,0,8,0,168,168,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,8,0,172,172,Female,48,Married,Middle Eastern Canadian,1,1,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Respite Personal Care,Hourly,Hourly,37,21,0,9.5,0,199.5,199.5,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,32,20,0,4.5,0,90,90,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Palliative,Hourly,Hourly,40,21,0,12,0,252,252,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,35,21,0,4,0,84,84,Female,53,Unknown,Middle Eastern Canadian,1,4,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,4,0,86,86,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,34,21.5,0,4,0,86,86,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Caregiver Training,Hourly,Hourly,35,21,0,4,0,84,108.8,Female,38,Married,African Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,34,19,0,3,0,57,57,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,41,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,39,21.5,0,4,0,86,86,Female,50,Married,Middle Eastern Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,28,18,0,5,0,90,90,Female,51,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,21,0,12,0,252,269.5,Female,36,Married,Middle Eastern Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,38,21,0,7,0,147,147,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,37,22,0,4,0,88,102.88,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,18,0,8,0,144,144,Female,36,Single,African Canadian,1,5,0,1
+Delivery,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,33,19,0,8,0,152,152,Female,33,Single,British Canadian,1,4,0,1
+Other,Visit,Visit,130,50,0,1,0,50,50,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,41,19,0,9,0,256.5,256.5,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+HMAP CH Visit,Visit,Visit,175,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Other,Visit,Hourly,130,20,0,1.5,0,30,30,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Phone Consult,Hourly,Hourly,35,21,0,0.25,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,38,22,4,0,88,0,88,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,39,21,0,12,0,252,252,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,35,20,0,8,0,240,245.04,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,36,22,0,8,0,176,178.4,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,36,22,0,8,0,176,176,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,31,22,0,12,0,264,264,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,31,21,0,12,0,252,252,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,22.5,0,4,0,90,153.68,Female,52,Unknown,British Canadian,1,6,1,1
+Phone Consult,Hourly,Hourly,35,0,0,0.25,0,0,0,Female,56,Married,Middle Eastern Canadian,0,10,0,1
+HMAP CH Visit,Visit,Visit,150,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,38,20,0,5.5,0,110,110,Female,50,Married,Middle Eastern Canadian,0,1,0,0
+Personal Care,Hourly,Hourly,38,21.5,0,8,0,172,172,Female,48,Married,Middle Eastern Canadian,1,1,0,1
+Personal Care,Hourly,Hourly,36,21,0,9.5,0,199.5,199.5,Female,58,Married,African Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,37,21.5,0,9.5,0,204.25,204.25,Female,58,Married,African Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,4,0,86,86,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Palliative,Hourly,Hourly,38,21.5,0,12,0,258,278,Female,36,Married,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,34,20,0,4,0,80,82.52,Female,32,Single,French Canadian,1,3,0,1
+Palliative,Hourly,Hourly,36,21,0,12,0,252,272,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,41,18,0,12,0,216,216,Female,55,Single,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,34,21,0,4,0,84,84,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Palliative,Hourly,Hourly,38,21,0,8,0,168,168,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,88,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,36,20,0,4,0,80,80,Female,42,Married,African Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,37,22.5,9.5,9.5,213.75,0,213.75,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,72,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,45,Married,Asian Canadian,0,2,0,1
+Delivery,Visit,Visit,35,21,0,1,0,0,58.74,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,6.75,0,145.13,145.13,Female,44,Married,Asian Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,12,0,387,387,Female,48,Married,Asian Canadian,0,1,0,0
+Personal Care,Hourly,Hourly,0,21,0,4,0,84,84,Female,44,Married,Asian Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,32,20,0,6,0,120,120,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,31,19,0,5,0,95,95,Female,41,Married,Middle Eastern Canadian,1,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Live-In,Visit,Visit,497.25,321.75,0,1,0,321.75,321.75,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,35,20,0,7,0,140,140,Female,54,Married,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,33,21.5,0,12,0,258,275.5,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,33,21,0,10,0,210,210,Female,59,Married,Asian Canadian,0,7,0,1
+Live-In,Visit,Visit,448.5,292.5,0,1,0,292.5,292.5,Female,2,Married,African Canadian,1,5,0,1
+Palliative,Hourly,Hourly,35,20,0,12,0,240,240,Female,55,Married,Caribbean Canadian,0,4,1,0
+Personal Care,Hourly,Hourly,36,20,0,4,0,80,80,Female,34,Unknown,Italian Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,38,20,0,8,0,160,160,Female,50,Married,Middle Eastern Canadian,0,1,0,0
+Caregiver Training,Hourly,Hourly,0,20,0,3.5,0,70,70,Female,44,Unknown,Asian Canadian,1,2,1,1
+Personal Care,Hourly,Hourly,32,22,0,15,0,330,330,Female,43,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,33,20,0,10,0,200,200,Female,32,Unknown,Asian Canadian,1,3,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,35,21,12,0,252,0,252,Female,36,Married,African Canadian,0,0,1,1
+Personal Care,Hourly,Hourly,34,21,0,4,0,84,84,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Live-In,Visit,Visit,340,250,0,1,0,250,250,Female,43,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,8,0,172,172,Female,43,Married,Middle Eastern Canadian,0,2,0,1
+Live-In,Visit,Visit,497.25,321.75,0,1,0,321.75,321.75,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,132,132,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,34,19,0,4,0,76,76,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,31,19,0,6,0,114,114,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,8,0,172,172,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,31,19,0,12,0,228,228,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,21,0,12,0,252,252,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,33,21,0,10,0,210,210,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,35,21,0,3,0,63,66.95,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Live-In,Visit,Visit,497.25,321.75,0,1,0,321.75,321.75,Female,52,Married,African Canadian,0,2,1,1
+Respite Personal Care,Hourly,Hourly,35,20,0,3.5,0,70,70,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,265,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,37,22.5,0,4,0,90,90,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,35,20.5,0,4,0,82,82,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,72,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,4,0,86,86,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,0,0,6,0,0,0,Female,49,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,12,0,240,240,Female,43,Married,Middle Eastern Canadian,1,5,0,1
+Palliative,Hourly,Hourly,35,20,0,10,0,200,200,Male,60,Married,African Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,45,Married,Asian Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,33,21.5,0,12,0,258,258,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,36,21,0,12,0,252,252,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,40,21,0,12,0,252,252,Female,44,Married,Eastern European Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,11.5,0,247.25,247.25,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Live-In,Visit,Visit,448.5,292.5,0,1,0,292.5,292.5,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,41,20,0,12,0,240,240,Female,69,Married,Asian Canadian,1,12,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,37,22,0,4,0,88,101.92,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,35,21,0,4,0,84,84,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,34,18,0,4,0,72,97,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,40,21.5,0,4,0,86,93.07,Female,44,Married,Eastern European Canadian,0,1,0,1
+Caregiver Training,Hourly,Hourly,35,20,0,4.75,0,95,95,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,37,0,0,10,0,0,0,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,36,22,0,12,0,264,264,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,38,22,0,8,0,176,176,Female,55,Married,Middle Eastern Canadian,0,1,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,41,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,19,0,4,0,76,76,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,38,22,0,12,0,264,264,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,35,21,0,12,0,252,252,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,40,21,0,5,0,105,105,Male,59,Single,Hispanic or Latino Canadian,0,1,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Hospall HM Work,Hourly,Visit,35,200,0,1,0,200,200,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Male,40,Married,Asian Canadian,1,11,1,0
+Respite Personal Care,Hourly,Hourly,38,21.5,0,4,0,129,129,Female,36,Married,African Canadian,0,0,1,1
+Personal Care,Hourly,Hourly,41,21,0,12,0,252,252,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,12,0,258,261.74,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,34,21,0,3,0,63,73,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,19,0,12,0,228,228,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,33,20,0,8,0,160,160,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,20,0,8,0,160,160,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,40,21,0,12,0,252,252,Female,38,Married,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Post Operative Care,Hourly,Hourly,37,20,0,5,0,100,100,Female,57,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,34,23,0,1,0,23,23,Male,53,Married,Asian Canadian,0,11,0,1
+RPNRN Shift,Hourly,Hourly,42,28,0,12,0,336,336,Female,48,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Palliative,Hourly,Hourly,34.5,21,0,10,0,210,210,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,32,20,0,9,0,180,180,Female,43,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,31,16,0,8,0,128,128,Female,2,Married,African Canadian,1,5,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,32,20,0,5,0,100,100,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,37,21.5,0,4,0,86,86,Female,49,Unknown,Middle Eastern Canadian,1,3,1,1
+Post Operative Care,Hourly,Hourly,38,21,0,12,0,252,254.69,Female,39,Married,African Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,33,21,0,10,0,210,210,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+On Call Duty,Visit,Visit,35,200,0,1,0,200,200,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,34,20,0,3,0,60,70,Female,27,Unknown,African Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,34,20.5,0,4,0,82,92,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,22,0,8,0,176,176.96,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,38,22,0,8,0,176,176,Female,55,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,17.5,0,0,0,0,0,0,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,32,19,0,6,0,114,114,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,40,22.5,0,4,0,90,113,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,7,0,150.5,150.5,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+HMAP CH Visit,Hourly,Visit,75,21,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,19,0,12,0,228,228,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Post Operative Care,Hourly,Hourly,36,0,0,4.08,0,0,0,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,5,0,107.5,107.5,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,17.5,21,0,4,0,84,84,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Palliative,Hourly,Hourly,34.5,21,0,2,0,42,42,Male,56,Married,African Canadian,0,9,1,1
+Respite Personal Care,Hourly,Hourly,35,20,0,3.5,0,70,70,Female,58,Married,African Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,17.5,21.5,0,10,0,215,365,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,5.25,0,112.88,112.88,Female,50,Married,Middle Eastern Canadian,0,2,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Respite Personal Care,Hourly,Hourly,38,21.5,0,12,0,258,258,Female,51,Married,Middle Eastern Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,31,18,0,5,0,90,90,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,32,22,0,10,0,220,220,Male,33,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,37,22.5,0,9.5,0,213.75,213.75,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Live-In,Hourly,Hourly,195.5,127.5,0,1,0,127.5,127.5,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,31,21,0,12,0,252,254.94,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,0,0,9.57,0,0,0,Female,46,Married,British Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,33,22,0,8,0,176,176,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,19,0,4,0,76,76,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,88,Female,52,Unknown,British Canadian,1,6,1,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,72,Female,40,Married,Italian Canadian,1,4,0,1
+Foot Care,Visit,Visit,75,45,0,1,0,45,45,Female,60,Married,Middle Eastern Canadian,1,10,1,1
+Personal Care,Hourly,Hourly,36,24,0,7,0,168,168,Female,66,Married,Caribbean Canadian,0,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Respite Personal Care,Hourly,Hourly,38,21.5,0,12,0,258,258,Female,51,Married,Middle Eastern Canadian,0,1,1,1
+Post Operative Care,Hourly,Hourly,36,21,0,2,0,42,42,Male,60,Married,African Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,38,21.5,0,8,0,172,174.69,Female,44,Married,Asian Canadian,0,0,0,1
+Live-In,Visit,Visit,207,135,0,1,0,135,135,Female,2,Married,African Canadian,1,5,0,1
+Respite Personal Care,Hourly,Hourly,36,21.5,0,4,0,86,86,Male,28,Single,Middle Eastern Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,59,Married,Asian Canadian,0,7,0,1
+Caregiver Training,Hourly,Hourly,35,21,0,5,0,105,197.87,Female,57,Divorce,British Canadian,0,2,1,0
+Personal Care,Hourly,Hourly,41,21,0,12,0,252,252,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,36,21,0,4,0,84,84,Male,24,Single,Asian Canadian,0,1,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,8,0,172,172,Female,43,Married,Middle Eastern Canadian,0,2,0,1
+Respite Personal Care,Hourly,Hourly,36,0,0,4.05,0,0,0,Female,50,Married,Middle Eastern Canadian,0,1,0,0
+Personal Care,Hourly,Hourly,40,21,0,5.17,0,108.57,108.57,Female,35,Married,Middle Eastern Canadian,0,0,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32.5,21,0,12,0,252,252,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,28,18,0,5,0,90,90,Female,51,Married,Middle Eastern Canadian,1,5,0,1
+Palliative,Hourly,Hourly,34.5,21.5,0,10,0,215,215,Female,32,Married,African Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,31,21,0,12,0,252,252,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,33,21,0,10,0,210,210,Female,59,Married,Asian Canadian,0,7,0,1
+Delivery,Visit,Visit,35,0,0,1,0,0,56.5,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,21,0,9.5,0,199.5,199.5,Female,46,Married,British Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,33,20,0,12,0,240,240,Male,56,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,18,0,9,0,162,162,Female,59,Married,Asian Canadian,0,7,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,40,21.5,0,9,0,193.5,193.5,Female,43,Married,Middle Eastern Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,8,0,172,172,Female,73,Unknown,Caribbean Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,17.5,21.5,0,4,0,86,86,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Palliative,Hourly,Hourly,35,20,0,5,0,100,100,Female,55,Married,Caribbean Canadian,0,4,1,0
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,37,21.5,0,4,0,86,102,Female,59,Married,Middle Eastern Canadian,0,2,0,0
+Personal Care,Hourly,Hourly,32,20,0,4.5,0,90,90,Female,44,Divorce,Eastern European Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,33,20,0,14.5,0,290,290,Male,56,Married,African Canadian,0,9,1,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,45,Married,Asian Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,32,20,0,6,0,120,120,Male,52,Married,African Canadian,1,8,1,0
+Personal Care,Hourly,Hourly,35,22,0,4,0,88,88,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+HMAP CH Visit,Hourly,Visit,75,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Covid 19 Rapid Antigen Testing,Hourly,Hourly,60,40,0,2,0,80,80,Male,53,Married,Asian Canadian,0,11,0,1
+Live-In,Visit,Visit,497.25,321.75,0,1,0,321.75,321.75,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,32,21,0,6,0,126,151,Male,59,Married,Middle Eastern Canadian,1,5,1,1
+Personal Care,Hourly,Hourly,38,19,0,9,0,171,171,Female,23,Single,Jewish Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,36,21,0,7,0,147,147,Female,44,Married,Eastern European Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,31,21,0,6,0,126,126,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,21,0,2,0,42,42,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Palliative,Hourly,Hourly,40,21,0,4,0,84,84,Female,55,Married,Middle Eastern Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Post Operative Care,Hourly,Hourly,40,21,0,12,0,252,252,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,72,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,31,21,0,5,0,105,105,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Phone Consult,Hourly,Hourly,35,0,0,0.25,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,6,0,129,129,Female,62,Unknown,British Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,36,21,0,9.5,0,199.5,199.5,Female,46,Married,British Canadian,1,3,0,1
+Palliative,Hourly,Hourly,36,21,0,8,0,168,168,Female,32,Separated,African Canadian,0,1,0,1
+Supervisory Visit,Hourly,Hourly,60,35,0,3.5,0,122.5,122.5,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,57,Divorce,British Canadian,0,2,1,0
+Personal Care,Hourly,Hourly,32,19,0,10,0,190,190,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,41,21,0,12,0,252,252,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,33,20,0,12,0,240,240,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,31,17,0,5,0,85,85,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Live-In,Hourly,Hourly,35,21,0,16,0,336,336,Female,41,Married,African Canadian,0,1,1,1
+Personal Care,Hourly,Hourly,28,18,0,5,0,90,90,Female,51,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,39,21.5,0,4,0,86,86,Female,50,Married,Middle Eastern Canadian,0,2,0,1
+Personal Care,Hourly,Hourly,33,21.5,0,12,0,258,258,Male,40,Married,Asian Canadian,1,11,1,0
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,45,Married,Asian Canadian,1,11,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,4,0,86,86,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,72,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,31,19,0,6,0,114,114,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,32,17,0,4,0,68,68,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,40,22,0,5,0,110,110,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,32,16,0,4,0,64,64,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,40,21,0,12,0,252,252,Male,60,Married,Middle Eastern Canadian,1,1,1,0
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,269,Female,39,Married,African Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,35,20,0,4,0,80,80,Female,50,Married,Middle Eastern Canadian,0,3,0,1
+Personal Care,Hourly,Hourly,32,20,0,10,0,200,200,Female,32,Unknown,Asian Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,35,19,0,4,0,76,80.8,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,32.5,21.5,0,12,0,258,258,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,36,23,0,4,0,92,92,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Respite Personal Care,Hourly,Hourly,35,20,0,3.5,0,70,70,Female,58,Married,African Canadian,1,2,0,1
+RPNRN Shift,Hourly,Hourly,42,28,0,12.5,0,350,350,Female,48,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,38,20,0,10,0,200,200,Female,34,Unknown,African Canadian,1,3,1,1
+RPNRN Visit,Visit,Visit,140,65,0,1,0,65,65,Female,66,Married,Caribbean Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,38,21.5,0,7,0,150.5,179.62,Female,59,Married,Middle Eastern Canadian,0,2,0,0
+Personal Care,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,35,21.5,0,4,0,86,102,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+HMAP CH Visit,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,41,19,0,10,0,285,285,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,0,21.5,0,4,0,86,86,Female,44,Married,Asian Canadian,0,0,0,1
+Live-In,Hourly,Hourly,35,22,4,12,88,264,352,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,35,22,0,6,0,132,146.4,Male,55,Single,Middle Eastern Canadian,1,3,1,1
+Palliative,Hourly,Hourly,41,21.5,0,4,0,86,86,Female,44,Married,Asian Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,32,0,0,8,0,0,0,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+RPNRN Shift,Hourly,Hourly,48,30,0,12,0,360,360,Female,48,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,32,18,0,4,0,72,72,Female,40,Married,Italian Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,33,22,0,8,0,176,176,Female,42,Married,Middle Eastern Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,36,21,0,4.33,0,90.93,90.93,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+Personal Care,Hourly,Hourly,32,20,0,6,0,120,120,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,41,19,0,12,0,228,228,Female,69,Married,Asian Canadian,1,12,0,1
+Palliative,Hourly,Hourly,36,21,0,12,0,252,272,Female,32,Separated,African Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,38,Married,African Canadian,0,1,0,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,31,20,0,12,0,240,240,Female,41,Married,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,36,21.5,0,9.25,0,198.88,207.04,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,38,21,0,4,0,84,84,Female,58,Unknown,Middle Eastern Canadian,1,3,1,1
+Personal Care,Hourly,Hourly,32,19,0,6,0,114,114,Female,43,Single,Middle Eastern Canadian,0,1,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,22.6,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,32.5,21,0,12,0,252,252,Female,51,Married,Middle Eastern Canadian,0,6,0,1
+Personal Care,Hourly,Hourly,31,19,0,12,0,228,228,Female,49,Unknown,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,48,Married,Middle Eastern Canadian,1,1,0,1
+Palliative,Hourly,Hourly,35,20,0,2,0,40,40,Male,60,Married,African Canadian,1,3,1,0
+Personal Care,Hourly,Hourly,33,20,0,12,0,240,240,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,8,0,172,173.44,Female,53,Unknown,Middle Eastern Canadian,0,2,1,1
+Post Operative Care,Hourly,Hourly,41,22,0,12,0,264,264,Female,58,Married,Middle Eastern Canadian,1,2,0,1
+Personal Care,Hourly,Hourly,32,22,0,3,0,66,66,Female,55,Married,British Canadian,1,5,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,7,0,150.5,150.5,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,38,21,0,12,0,252,252,Female,69,Married,Asian Canadian,1,12,0,1
+Personal Care,Hourly,Hourly,38,21.5,0,12,0,258,258,Female,48,Married,Asian Canadian,0,1,0,0
+Personal Care,Hourly,Hourly,38,22,0,4,0,88,88,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,36,24,0,9.42,0,226.08,226.08,Female,43,Married,Middle Eastern Canadian,1,3,0,1
+Personal Care,Hourly,Hourly,33,21,0,12,0,252,252,Female,46,Divorce,Eastern European Canadian,0,0,0,1
+Post Operative Care,Hourly,Hourly,36,20,0,8,0,160,160,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Caregiver Training,Hourly,Hourly,35,20,0,4,0,80,80,Female,32,Single,British Canadian,1,2,0,1
+Training,Hourly,Hourly,35,18,0,3.5,0,63,18,Female,28,Single,Middle Eastern Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,34,21.5,0,10,0,215,215,Female,59,Married,Asian Canadian,0,7,0,1
+Personal Care,Hourly,Hourly,36,22,0,8,0,176,176,Female,60,Unknown,Hispanic or Latino Canadian,0,3,1,0
+Live-In,Visit,Visit,448.5,292.5,0,1,0,292.5,292.5,Female,2,Married,African Canadian,1,5,0,1
+Personal Care,Hourly,Hourly,32,19,0,12,0,228,228,Male,41,Married,African Canadian,1,5,0,1
+HMAP CH Visit,Visit,Visit,35,0,0,1,0,0,0,Male,53,Married,Asian Canadian,0,11,0,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Personal Care,Hourly,Hourly,35,20,0,8,0,160,160,Female,53,Married,Middle Eastern Canadian,0,3,1,0
+Personal Care,Hourly,Hourly,41,18,0,13.5,0,243,243,Female,52,Unknown,Middle Eastern Canadian,0,4,1,1
+Personal Care,Hourly,Hourly,33,19,0,14.5,0,275.5,275.5,Female,61,Unknown,African Canadian,1,4,0,1
+Personal Care,Hourly,Hourly,36,21.5,0,12,0,258,258,Female,52,Married,Middle Eastern Canadian,0,5,1,1
+HMAP INCL,Visit,Visit,0,0,0,1,0,0,0,Female,41,Divorce,Hispanic or Latino Canadian,0,3,1,1
+Live-In,Visit,Visit,102,66,0,1,0,66,116,Female,52,Married,African Canadian,0,2,1,1
+Personal Care,Hourly,Hourly,40,21.5,0,5,0,161.25,161.25,Female,36,Married,African Canadian,1,2,1,0
+Personal Care,Hourly,Hourly,31,22,0,8,0,176,213.97,Female,53,Married,Middle Eastern Canadian,1,6,0,1
+Personal Care,Hourly,Hourly,32,20,0,7,0,140,140,Female,46,Divorce,Eastern European Canadian,0,0,0,1
